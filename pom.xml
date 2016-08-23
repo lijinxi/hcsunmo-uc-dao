@@ -19,6 +19,8 @@
   </properties>
   <dependencies>
 
+    <!-- hcmon工程 -->  <!-- hcmon工程 -->
+
 		<dependency>
 			<groupId>com.hc.scm</groupId>
 			<artifactId>hc-common-core</artifactId>

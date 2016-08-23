@@ -11,5 +11,5 @@ import com.hc.scm.common.base.dal.BaseCrudDao;
  * @version 1.0.0
  */
 public interface HcSupplierManagementDao extends BaseCrudDao {
-    /*军情解码花儿总是幸福的-------*****/
+    /*军情解码花儿总是幸福的-------*****9999999999999999/
 }
